@@ -1,4 +1,4 @@
-package Lesson_07.Ex003;
+package Lesson_1.Ex003;
 
 
 /** 
